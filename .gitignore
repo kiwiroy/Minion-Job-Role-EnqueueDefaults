@@ -6,8 +6,9 @@
 /*.tar.gz
 /blib/
 /cover_db
+/cpanfile.snapshot
 /inc/
-/local
+/local*
 /Makefile
 /Makefile.old
 /MANIFEST
